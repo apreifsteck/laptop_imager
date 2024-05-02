@@ -1,0 +1,17 @@
+cli_tools = [
+ # "kitty",
+ "asdf",
+"autojump",
+ # "z",
+# "foo",
+ # "trash",
+ # "pure",
+ # {install_name = "postgresql", cli_name = "postgres"},
+ # {install_name = "helix", cli_name = "hx"},
+
+]
+
+apps = [
+  "spotify"
+]
+
